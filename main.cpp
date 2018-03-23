@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    Character wizard(1);
+    Character czarodziejowicz(1);
     Character barb(2);
     Character zlodziej(3);
     Character druid(4);
